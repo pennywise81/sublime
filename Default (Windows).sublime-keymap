@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false }},
+  { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true }}
+]

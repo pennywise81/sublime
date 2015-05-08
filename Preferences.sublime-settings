@@ -1,0 +1,34 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"directwrite",
+		"gray_antialias"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_sidebar_tree_large": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_sidebar_tree_small": true,
+	"itg_sidebar_tree_xlarge": true,
+	"itg_sidebar_tree_xsmall": true,
+	"itg_small_tabs": true,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
