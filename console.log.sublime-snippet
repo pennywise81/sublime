@@ -1,5 +1,5 @@
 <snippet>
-  <content>console.log(${1:this});</content>
+  <content>window.console && console.log(${1:this});</content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>cl</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
