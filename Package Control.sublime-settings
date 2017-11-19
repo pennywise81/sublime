@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Compare Side-By-Side",
 		"Emmet",
 		"Handlebars",
 		"jQuery",
