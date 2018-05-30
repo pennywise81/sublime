@@ -5,18 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"Compare Side-By-Side",
-		"Emmet",
-		"Handlebars",
-		"jQuery",
-		"LESS",
+		"A File Icon",
 		"MarkdownPreview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
 		"Package Control",
-		"Sass",
-		"SideBarEnhancements",
-		"Solarized Color Scheme",
-		"Theme - itg.flat",
-		"Theme - Soda SolarizedDark",
 		"TrailingSpaces"
 	]
 }
