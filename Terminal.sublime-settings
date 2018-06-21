@@ -1,0 +1,5 @@
+{
+  // Replace with your own path to cmder.exe
+  "terminal": "C:\\gdrive\\Apps\\cmder\\Cmder.exe",
+  "parameters": ["/START", "%CWD%"]
+}
