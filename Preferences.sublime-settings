@@ -9,7 +9,7 @@
 		"directwrite",
 		"gray_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
