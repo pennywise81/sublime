@@ -6,13 +6,16 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Babel",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
+		"JSX",
 		"MarkdownPreview",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Material Theme - White Panels",
 		"Package Control",
+		"SCSS",
 		"Terminal",
 		"TrailingSpaces"
 	]
