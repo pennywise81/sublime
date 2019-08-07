@@ -9,7 +9,8 @@
 		"directwrite",
 		"gray_antialias"
 	],
-	"font_size": 9,
+	"font_face": "Ubuntu Mono Bold",
+	"font_size": 13,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
